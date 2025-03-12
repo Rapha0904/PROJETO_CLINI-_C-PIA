@@ -1,0 +1,57 @@
+Descrição das entradas variáveis
+
+Cadastro Médico:____________________________________________________________________________
+
+
+Nome = 'Maya Giovanna Sophia da Mota'
+senha = 'Mm6891'
+CPF = 43080649966
+email = 'maya_giovanna_damota@estruturalbr.com.br'
+crm = 245987
+especialidade = 'oftalmologia'
+
+Cadastro Pacientes:____________________________________________________________________________
+
+Nome = 'Victor Calebe da Cruz'
+senha = 6mh9kiliK0
+CPF = 03118328908
+Email = victor_dacruz@outloock.com
+Indormações Médicas = 
+
+'Doenças Pré-existentes: Nenhuma doença crônica diagnosticada.
+Alergias: Alergia a amendoim (reação cutânea).
+Histórico Familiar: Mãe com histórico de hipertensão arterial, pai com histórico de diabetes tipo 2.
+Cirurgias Anteriores: Apêndice removido aos 18 anos.
+Medicamentos em uso:
+
+Não faz uso contínuo de medicamentos.
+Sinais e Sintomas:
+
+Queixas de dor lombar recorrente, principalmente após longos períodos sentado.
+Relata episódios esporádicos de insônia relacionados ao estresse no trabalho.
+Exames Realizados:
+
+Exame de sangue: Todos os parâmetros dentro da faixa de normalidade, sem sinais de infecção ou alterações significativas.
+Eletrocardiograma (ECG): Normal.
+Raio-X da coluna: Leve desgaste nas vértebras lombares, sugestivo de lombalgia.
+Imunizações:
+
+Vacinas em dia conforme o calendário de vacinação.
+Estilo de Vida:
+
+Alimentação balanceada, mas com consumo excessivo de alimentos ricos em gordura saturada nos finais de semana.
+Pratica atividade física moderada (caminhadas de 30 minutos, 3 vezes por semana).
+Consumo de álcool socialmente (não habitual), não fuma.
+Plano de Acompanhamento:
+
+Aconselhamento para melhorar a postura e iniciar um programa de fortalecimento muscular para prevenção de dor lombar.
+Recomenda-se acompanhamento semestral para monitoramento da saúde cardiovascular e metabólica, devido ao histórico familiar.
+Observações:
+
+Victor apresenta nível de estresse elevado, relacionado ao ambiente de trabalho. Sugere-se acompanhamento psicológico para manejo do estresse e melhoria na qualidade do sono.'
+
+Consulta:____________________________________________________________________________
+
+Data: 02/07/2008
+Horário: 10:30
+Local: Rua Tenente Olderico Gabardo, 326, 81710-110, Xaxim, Curitiba/PR
